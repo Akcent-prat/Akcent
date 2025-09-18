@@ -23,7 +23,7 @@ footer{background:#fff;padding:16px;text-align:center;border-top:1px solid #eee}
   display: flex;
   flex-direction: column;
   gap: 12px;
-  max-width: 300px; /* ширина колонки */
+  max-width: 300px;
 }
 
 .report-btn {
@@ -39,5 +39,6 @@ footer{background:#fff;padding:16px;text-align:center;border-top:1px solid #eee}
 }
 
 .report-btn:hover {
-  background: #003f8a; /* темніший синій при наведенні */
+  background: #003f8a;
 }
+
